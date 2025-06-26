@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysingh-bisht&show_icons=true&locale=en&layout=compact" alt="sanjaysingh-bisht" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaysingh-bisht&show_icons=true&locale=en" alt="sanjaysingh-bisht" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysingh-bisht&" alt="sanjaysingh-bisht" /></p>
